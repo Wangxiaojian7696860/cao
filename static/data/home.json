@@ -105,7 +105,7 @@
           }
         ],
         "comments": null,
-        "image": "www.master9527.fun/images/jspang/20180408/20180408111959_2837.png"
+        "image": "http://www.master9527.fun/images/jspang/20180408111959_2837.png"
       },
       {
         "mallCategoryId": "2",
@@ -143,7 +143,7 @@
           }
         ],
         "comments": null,
-        "image": "www.master9527.fun/images/jspang/20180408/20180408112010_4489.png"
+        "image": "http://www.master9527.fun/images/jspang/20180408112010_4489.png"
       },
       {
         "mallCategoryId": "3",
@@ -175,7 +175,7 @@
           }
         ],
         "comments": null,
-        "image": "www.master9527.fun/images/jspang/20180408/20180408113102_1595.png"
+        "image": "http://www.master9527.fun/images/jspang/20180408113102_1595.png"
       },
       {
         "mallCategoryId": "5",
@@ -255,7 +255,7 @@
           }
         ],
         "comments": null,
-        "image": "www.master9527.fun/images/jspang/20180408/20180408113048_1276.png"
+        "image": "http://www.master9527.fun/images/jspang/20180408113048_1276.png"
       },
       {
         "mallCategoryId": "4",
@@ -281,20 +281,20 @@
           }
         ],
         "comments": null,
-        "image": "www.master9527.fun/images/jspang/20180408/20180408112053_8191.png"
+        "image": "http://www.master9527.fun/images/jspang/20180408112053_8191.png"
       }
     ],
     "slides": [
       {
-        "image": "www.master9527.fun/images/jspang/20180407/20180407175040_1780.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180407175040_1780.jpg",
         "goodsId": "b1195296679f482aa7d54d95ac2b4a94"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180407/20180407175111_9509.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180407175111_9509.jpg",
         "goodsId": "da34d6f381464a219b37a9ac0ad579e8"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180407/20180407175142_6947.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180407175142_6947.jpg",
         "goodsId": "ad176e397858448a854dc50371334faf"
       }
     ],
@@ -359,42 +359,42 @@
     ],
     "recommend": [
       {
-        "image": "www.master9527.fun/images/jspang/20180223/20180223091446_6102.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180223091446_6102.jpg",
         "mallPrice": 14,
         "goodsId":23,
         "price": 16,
         "goodsName": "星冰乐咖啡饮料原味281ml/瓶"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180412/20180412174400_8577.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180412174400_8577.jpg",
         "mallPrice":2,
         "goodsId": 24,
         "price":3,
         "goodsName": "农夫山泉维他命柑桔营养素500ml/瓶"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180409/20180409172758_7229.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180409172758_7229.jpg",
         "mallPrice":8,
         "goodsId": 25,
         "price": 9,
         "goodsName": "杭阿哥小麻花黑糖味450g/袋"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20171229/20171229141008_3336.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20171229141008_3336.jpg",
         "mallPrice":18,
         "goodsId":26,
         "price":20,
         "goodsName": "忆江南龙井茶100g"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180410/20180410113232_8422.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180410113232_8422.jpg",
         "mallPrice":2,
         "goodsId":27,
         "price":3,
         "goodsName": "派迷夹心可可椰子涂层三明治派64g/袋"
       },
       {
-        "image": "www.master9527.fun/images/jspang/20180212/20180212145741_5638.jpg",
+        "image": "http://www.master9527.fun/images/jspang/20180212145741_5638.jpg",
         "mallPrice": 68,
         "goodsId":28,
         "price":75,
